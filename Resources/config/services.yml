@@ -1,0 +1,4 @@
+services:
+#    ck_cron_task.example:
+#        class: CK\CronTaskBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
